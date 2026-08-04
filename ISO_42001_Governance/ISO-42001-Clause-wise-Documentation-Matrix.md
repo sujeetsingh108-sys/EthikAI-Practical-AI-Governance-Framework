@@ -4,8 +4,8 @@
 
 | Clause | Requirement | Document | Mandatory | Justification | Audit Evidence |
 |--------|-------------|----------|-----------|---------------|----------------|
-| 4.1 | Understand internal and external issues affecting the AIMS | Organization Context Analysis | Recommended | Demonstrates that the organization has identified the business, regulatory, technological, and operational factors that influence AI governance. | Context assessment, SWOT/PESTLE analysis, meeting minutes |
-| 4.2 | Understand needs and expectations of interested parties | Interested Parties Register | Yes | Identifies stakeholders and their AI-related expectations. | Stakeholder register, legal requirements register |
+| 4.1 | Understand internal and external issues affecting the AIMS | Organization Context Analysis | Recommended | Demonstrates that the organization has identified the business, regulatory, technological, and operational factors that influence AI governance. | Context assessment, meeting minutes |
+| 4.2 | Understand needs and expectations of interested parties | Interested Parties Register | Yes | Identifies stakeholders and their AI-related expectations. | Stakeholder register |
 | 4.3 | Determine the scope of the AI Management System | AIMS Scope Document | Yes | Defines organizational boundaries, AI systems covered, exclusions, and interfaces. | Approved scope statement |
 | 4.4 | Establish, implement, maintain and continually improve the AIMS | AI Management System Manual / Process Architecture | Recommended | Shows how processes interact to form the AI Management System. | Process maps, governance framework |
 
