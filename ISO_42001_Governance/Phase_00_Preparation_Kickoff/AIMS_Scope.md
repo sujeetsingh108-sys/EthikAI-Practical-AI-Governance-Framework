@@ -1,5 +1,5 @@
 <h1> Organization Context</h1>  
-<h2> ISO/IEC 42001:2023 – Clause 4.1</h2>    
+<h2> ISO/IEC 42001:2023 – Clause 4.3</h2>    
 <h3> Project: AI-Based Medical Diagnostic System</h3>  
 
 | Field            | Details                                              |
